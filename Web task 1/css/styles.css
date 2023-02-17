@@ -1,0 +1,67 @@
+body{
+    font-family: "Montserrat-Dark";
+}
+#title{
+    background-color: #fff;
+    color:#000;
+}
+.container-fluid{
+    padding: 2% 2%;
+    background-color: beige;
+}
+.navbar{
+    padding: 0 0 1.5rem;
+}
+
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-item{
+    font-size: 1.3rem;
+    font-family: "Montserrat-Dark";
+}
+.form-control{
+    border-radius:25px;
+}
+.btn{
+    border-radius: 25px;
+    margin:0 0 0 8%;
+}
+h1{
+    font-size:"Montserrat-Black";
+    font-size:3rem;
+    line-height:1.5;
+    color:#8D72E1;
+    padding:30px;
+}
+h3{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size:2rem;
+    color: rgb(223, 120, 120);
+}
+.top-cloud{
+    position: absolute;
+    left:150px;
+    top:80px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:630px;
+    top:130px;
+}
+.title-image{
+    width: 150%;
+    margin:30% 0 0 0;
+    position: absolute;
+    bottom: 40px;
+    left: 150px;
+}
+.row{
+    background-color: aqua;
+}
